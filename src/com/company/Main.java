@@ -6,5 +6,6 @@ public class Main {
 	// write your code here
         System.out.print("Hello Nowcoder");
         System.out.println("sdsdsd");
+        System.out.println("why not");
     }
 }
